@@ -65,3 +65,41 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # laravel_class
+
+
+
+# Laravel 12 - Web Engineering Lab
+
+## Student Information
+- **Name:** Md. Bilayet Hossain
+- **Student ID:** 221-15-5821
+- **Course:** CSE 416 - Web Engineering Lab
+- **Section:** RE_A1(2C)
+- **University:** Daffodil International University
+
+## Project Description
+This Laravel 12 application was developed as part of
+Lab Task 3 for the Web Engineering Lab course.
+
+## Technologies
+- Laravel 12
+- PHP 8.3
+- Composer
+- Node.js and npm
+- Vite
+
+## Run the Application
+```bash
+composer install
+npm install
+cp .env.example .env
+php artisan key:generate
+npm run build
+composer run dev
+```
+
+## Author
+Md. Bilayet Hossain  
+Student ID: 221-15-5821
+
+© 2026 Md. Bilayet Hossain.
